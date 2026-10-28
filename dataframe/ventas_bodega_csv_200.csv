@@ -1,0 +1,201 @@
+﻿id_venta;fecha_venta;producto;categoria;varietal;cantidad_botellas;precio_unitario;descuento;total_venta;canal_venta;provincia;ciudad;metodo_pago;vendedor;estado_pedido;satisfaccion_cliente;costo_envio;origen_archivo
+CSV-0001;4/3/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;8;5200;0.0;41600.0;Vinoteca;Mendoza;Luján de Cuyo;Efectivo;Lucía Pérez;Entregado;5.0;0;CSV
+CSV-0002;1/3/2026; malbec reserva ;Tinto;Malbec;17;4200;0.2;58620.0;Salón de ventas;Mendoza;Ciudad de Mendoza;Efectivo;Camila Torres;Entregado;5.0;1500;CSV
+CSV-0003;19/4/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;11;7500;0.05;78375.0;Tienda Online;Mendoza;Ciudad de Mendoza;Efectivo;Lucía Pérez;Entregado;;0;CSV
+CSV-0004;9/3/2026;Rosé de Malbec;Rosado;Malbec;2;12000;20%;19200.0;Vinoteca;Buenos Aires;Mar del Plata;Transferencia;Camila Torres;Entregado;4.0;0;CSV
+CSV-0005;18/1/2026;Rosé de Malbec;Rosado;Malbec;2;6100;0.1;10980.0;Restaurante;San Juan;;Transferencia;Tomás Molina;Devuelto;2.0;0;CSV
+CSV-0006;1/4/2026;Rosé de Malbec;Rosado;Malbec;7;7500;0.0;54500.0;Salón de ventas;Córdoba;Villa Carlos Paz;Tarjeta débito;Tomás Molina;Entregado;2.0;2000;CSV
+CSV-0007;23/5/2026;Espumante Brut;Espumante;Blend;8;8900;0%;72400.0;Restaurante;Buenos Aires;;TRANSFERENCIA;Lucía Pérez;Entregado;1.0;1200;CSV
+CSV-0008;24/2/2026;Chardonnay Roble;Blanco;Chardonnay;21;12000;0.15;216700.0;Restaurante;San Juan;Rivadavia;Tarjeta débito;Sofía Herrera;Cancelado;;2500;CSV
+CSV-0009;24/5/2026;Blend Gran Corte;Tinto;Blend;18;7500;0.2;109500.0;Distribuidor;Córdoba;Río Cuarto;Tarjeta débito;Martín Gómez;Entregado;5.0;1500;CSV
+CSV-0010;29/1/2026;Syrah Estate;Tinto;Syrah;5;5200;0.15;23600.0;Vinoteca;Mendoza;Godoy Cruz;Efectivo;Camila Torres;Entregado;4.0;1500;CSV
+CSV-0011;30/1/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;22;7500;0.1;149300.0;Restaurante;San Juan;San Juan Capital;Tarjeta crédito;Sofía Herrera;Entregado;4.0;800;CSV
+CSV-0012;18/3/2026; blend gran corte ;Tinto;Blend;21;6100;0.05;123695.0;Vinoteca;San Juan;;Tarjeta crédito;Camila Torres;Entregado;;2000;CSV
+CSV-0013;29/1/2026;Rosé de Malbec;Rosado;Malbec;12;7500;5%;85500.0;Tienda Online;Santa Fe;Rosario;Efectivo;Lucía Pérez;Entregado;5.0;0;CSV
+CSV-0014;2/5/2026;Blend Gran Corte;Tinto;Blend;18;5200;0.1;85740.0;Salón de ventas;Córdoba;Río Cuarto;Mercado Pago;Martín Gómez;Entregado;5.0;1500;CSV
+CSV-0015;23/4/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;17;12000;0%;205200.0;Tienda Online;Santa Fe;Santa Fe Capital;Mercado Pago;Camila Torres;Entregado;1.0;1200;CSV
+CSV-0016;2/1/2026;Chardonnay Roble;Blanco;Chardonnay;3;4200;0.05;13170.0;Tienda Online;San Juan;San Juan Capital;Mercado Pago;Martín Gómez;Entregado;1.0;1200;CSV
+CSV-0017;24/2/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;18;5200;0.2;76380.0;Restaurante;Neuquén;San Martín de los Andes;Tarjeta débito;Lucía Pérez;Entregado;2.0;1500;CSV
+CSV-0018;1/4/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;14;10500;0.15;124950.0;Tienda Online;Neuquén;San Martín de los Andes;Tarjeta crédito;Tomás Molina;Pendiente;;0;CSV
+CSV-0019;19/2/2026;Rosé de Malbec;Rosado;Malbec;7;12000;0.05;81300.0;Salón de ventas;Mendoza;Ciudad de Mendoza;Tarjeta crédito;Tomás Molina;Entregado;3.0;1500;CSV
+CSV-0020;24/1/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;8;5200;0.15;36860.0;Tienda Online;Mendoza;;Tarjeta débito;Tomás Molina;Entregado;2.0;1500;CSV
+CSV-0021;27/4/2026;Malbec Reserva;Tinto;Malbec;10;10500;0.2;84800.0;Salón de ventas;Santa Fe;Santa Fe Capital;Transferencia;Martín Gómez;Entregado;4.0;800;CSV
+CSV-0022;22/3/2026;Malbec Reserva;Tinto;Malbec;2;4200;0.2;7520.0;Tienda Online;San Juan;San Juan Capital;MERCADO PAGO;Lucía Pérez;Entregado;5.0;800;CSV
+CSV-0023;2/3/2026;Blend Gran Corte;Tinto;Blend;13;4800;0.2;49920.0;Vinoteca;Mendoza;Godoy Cruz;Tarjeta crédito;Tomás Molina;Entregado;;0;CSV
+CSV-0024;22/3/2026;Rosé de Malbec;Rosado;Malbec;8;7500;0.15;52500.0;Distribuidor;Buenos Aires;CABA;Tarjeta crédito;Lucía Pérez;Entregado;3.0;1500;CSV
+CSV-0025;19/1/2026;Syrah Estate;Tinto;Syrah;18;6100;0.2;87840.0;Salón de ventas;San Juan;San Juan Capital;Transferencia;Sofía Herrera;Entregado;3.0;0;CSV
+CSV-0026;16/5/2026;Blend Gran Corte;Tinto;Blend;1;7500;0%;8300.0;Distribuidor;Santa Fe;Santa Fe Capital;Tarjeta crédito;Lucía Pérez;Cancelado;;800;CSV
+CSV-0027;23/2/2026;Blend Gran Corte;Tinto;Blend;23;8900;0.05;196465.0;Restaurante;Buenos Aires;La Plata;Transferencia;Lucía Pérez;Entregado;3.0;2000;CSV
+CSV-0028;12/3/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;2;4200;0.1;8360.0;Restaurante;Neuquén;San Martín de los Andes;Mercado Pago;Tomás Molina;Entregado;3.0;800;CSV
+CSV-0029;8/2/2026;Malbec Reserva;Tinto;Malbec;18;4200;0.1;69540.0;Salón de ventas;Mendoza;Godoy Cruz;TARJETA CRÉDITO;Sofía Herrera;Entregado;2.0;1500;CSV
+CSV-0030;23/2/2026;Rosé de Malbec;Rosado;Malbec;22;6100;0.0;135700.0;Vinoteca;Mendoza;Luján de Cuyo;Tarjeta débito;Martín Gómez;Entregado;5.0;1500;CSV
+CSV-0031;7/1/2026;Blend Gran Corte;Tinto;Blend;6;8900;0.15;47890.0;Salón de ventas;Córdoba;Villa Carlos Paz;Transferencia;Martín Gómez;Pendiente;;2500;CSV
+CSV-0032;1/5/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;8;6100;0.15;42280.0;Tienda Online;Santa Fe;Rosario;Tarjeta débito;Tomás Molina;Entregado;2.0;800;CSV
+CSV-0033;13/3/2026;Rosé de Malbec;Rosado;Malbec;12;10500;0.2;100800.0;Distribuidor;Buenos Aires;CABA;Tarjeta débito;Camila Torres;Entregado;1.0;0;CSV
+CSV-0034;22/4/2026; sauvignon blanc ;Blanco;Sauvignon Blanc;12;8900;0.15;90780.0;Restaurante;Mendoza;Godoy Cruz;Mercado Pago;Martín Gómez;Entregado;5.0;0;CSV
+CSV-0035;1/1/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;17;6100;0.1;95330.0;Distribuidor;Mendoza;Maipú;TARJETA CRÉDITO;Sofía Herrera;Entregado;3.0;2000;CSV
+CSV-0036;25/3/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;13;7500;0.2;80500.0;Restaurante;Neuquén;San Martín de los Andes;Tarjeta débito;Camila Torres;Entregado;4.0;2500;CSV
+CSV-0037;19/3/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;10;6100;0.15;53850.0;Distribuidor;Santa Fe;Rosario;Efectivo;Tomás Molina;Pendiente;;2000;CSV
+CSV-0038;11/5/2026;Syrah Estate;Tinto;Syrah;16;5200;0.0;84400.0;Tienda Online;Neuquén;Neuquén Capital;Tarjeta débito;Sofía Herrera;Entregado;5.0;1200;CSV
+CSV-0039;7/1/2026;Chardonnay Roble;Blanco;Chardonnay;2;6100;0.15;11870.0;Restaurante;Córdoba;Córdoba Capital;Mercado Pago;Martín Gómez;Entregado;1.0;1500;CSV
+CSV-0040;4/3/2026;Espumante Brut;Espumante;Blend;5;4200;0.0;21800.0;Vinoteca;Santa Fe;Santa Fe Capital;Efectivo;Lucía Pérez;Entregado;2.0;800;CSV
+CSV-0041;4/2/2026;Chardonnay Roble;Blanco;Chardonnay;15;8900;15%;114975.0;Vinoteca;Mendoza;Maipú;EFECTIVO;Martín Gómez;Entregado;5.0;1500;CSV
+CSV-0042;5/3/2026;Syrah Estate;Tinto;Syrah;21;7500;20%;127200.0;Restaurante;Santa Fe;Santa Fe Capital;Tarjeta crédito;Sofía Herrera;Entregado;2.0;1200;CSV
+CSV-0043;23/3/2026;Chardonnay Roble;Blanco;Chardonnay;18;4800;0.05;84580.0;Salón de ventas;Buenos Aires;La Plata;Tarjeta débito;Lucía Pérez;Entregado;4.0;2500;CSV
+CSV-0044;19/5/2026;Espumante Brut;Espumante;Blend;15;10500;0.0;159000.0;Vinoteca;Santa Fe;Santa Fe Capital;Tarjeta crédito;Camila Torres;Entregado;4.0;1500;CSV
+CSV-0045;1/4/2026;Espumante Brut;Espumante;Blend;10;10500;0.15;91250.0;Salón de ventas;Santa Fe;Rosario;Efectivo;Martín Gómez;Entregado;5.0;2000;CSV
+CSV-0046;8/1/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;13;8900;0.15;99145.0;Vinoteca;Santa Fe;Santa Fe Capital;Mercado Pago;Lucía Pérez;Entregado;4.0;800;CSV
+CSV-0047;22/1/2026;Espumante Brut;Espumante;Blend;21;10500;5%;210275.0;Tienda Online;San Juan;San Juan Capital;Transferencia;Tomás Molina;Pendiente;;800;CSV
+CSV-0048;25/3/2026;Rosé de Malbec;Rosado;Malbec;11;10500;0.1;105150.0;Tienda Online;Córdoba;Villa Carlos Paz;Efectivo;Lucía Pérez;Entregado;4.0;1200;CSV
+CSV-0049;18/1/2026;Malbec Reserva;Tinto;Malbec;21;4200;0.0;89000.0;Tienda Online;Buenos Aires;CABA;Mercado Pago;Martín Gómez;Cancelado;;800;CSV
+CSV-0050;30/1/2026;Chardonnay Roble;Blanco;Chardonnay;19;6100;0.15;99315.0;Vinoteca;Córdoba;Villa Carlos Paz;Mercado Pago;Lucía Pérez;Entregado;3.0;800;CSV
+CSV-0051;29/5/2026;Blend Gran Corte;Tinto;Blend;1;7500;0.2;7500.0;Salón de ventas;Buenos Aires;CABA;Tarjeta crédito;Camila Torres;Entregado;4.0;1500;CSV
+CSV-0052;31/1/2026;Chardonnay Roble;Blanco;Chardonnay;19;4200;10%;71820.0;Vinoteca;Mendoza;Luján de Cuyo;Transferencia;Lucía Pérez;Entregado;3.0;0;CSV
+CSV-0053;21/4/2026;Espumante Brut;Espumante;Blend;12;12000;0.05;139300.0;Distribuidor;Santa Fe;Rosario;Mercado Pago;Camila Torres;Entregado;5.0;2500;CSV
+CSV-0054;10/3/2026;Syrah Estate;Tinto;Syrah;11;6100;0.0;67900.0;Restaurante;Santa Fe;Santa Fe Capital;Mercado Pago;Camila Torres;Entregado;4.0;800;CSV
+CSV-0055;7/5/2026;Espumante Brut;Espumante;Blend;11;5200;0.15;49820.0;Distribuidor;Buenos Aires;CABA;Mercado Pago;Sofía Herrera;Entregado;3.0;1200;CSV
+CSV-0056;22/1/2026;Malbec Reserva;Tinto;Malbec;8;10500;0.15;73900.0;Restaurante;San Juan;San Juan Capital;EFECTIVO;Tomás Molina;Entregado;2.0;2500;CSV
+CSV-0057;26/2/2026;Malbec Reserva;Tinto;Malbec;13;6100;0.1;72870.0;Vinoteca;Mendoza;Luján de Cuyo;Mercado Pago;Sofía Herrera;Entregado;3.0;1500;CSV
+CSV-0058;1/4/2026;Espumante Brut;Espumante;Blend;23;12000;0.1;248400.0;Salón de ventas;Neuquén;San Martín de los Andes;Transferencia;Lucía Pérez;Entregado;2.0;0;CSV
+CSV-0059;4/5/2026;Blend Gran Corte;Tinto;Blend;9;7500;0%;68700.0;Salón de ventas;Córdoba;Córdoba Capital;Transferencia;Martín Gómez;Pendiente;;1200;CSV
+CSV-0060;12/3/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;2;4200;0.2;9220.0;Restaurante;Mendoza;Ciudad de Mendoza;Tarjeta crédito;Lucía Pérez;Entregado;2.0;2500;CSV
+CSV-0061;23/4/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;11;5200;0.0;57200.0;Tienda Online;Santa Fe;Santa Fe Capital;Efectivo;Tomás Molina;Entregado;4.0;0;CSV
+CSV-0062;8/2/2026; cabernet clásico ;Tinto;Cabernet Sauvignon;5;7500;0.0;39500.0;Restaurante;San Juan;San Juan Capital;Mercado Pago;Camila Torres;Devuelto;1.0;2000;CSV
+CSV-0063;26/4/2026;Chardonnay Roble;Blanco;Chardonnay;15;7500;0.2;92000.0;Vinoteca;San Juan;Rivadavia;Tarjeta crédito;Camila Torres;Devuelto;3.0;2000;CSV
+CSV-0064;24/2/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;9;4800;0.05;41040.0;Salón de ventas;Córdoba;Río Cuarto;Tarjeta crédito;Tomás Molina;Entregado;;0;CSV
+CSV-0065;16/3/2026;Syrah Estate;Tinto;Syrah;2;6100;0.1;10980.0;Salón de ventas;Neuquén;San Martín de los Andes;Transferencia;Camila Torres;Entregado;4.0;0;CSV
+CSV-0066;20/5/2026;Chardonnay Roble;Blanco;Chardonnay;8;5200;0.1;37440.0;Tienda Online;Santa Fe;Rosario;Tarjeta débito;Sofía Herrera;Pendiente;;0;CSV
+CSV-0067;30/4/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;23;7500;0.15;148625.0;Vinoteca;Santa Fe;Rosario;Efectivo;Tomás Molina;Cancelado;;2000;CSV
+CSV-0068;21/4/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;24;8900;0.2;171680.0;Vinoteca;San Juan;San Juan Capital;Mercado Pago;Lucía Pérez;Entregado;1.0;800;CSV
+CSV-0069;14/2/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;16;12000;0.1;174300.0;Restaurante;San Juan;San Juan Capital;Tarjeta crédito;Tomás Molina;Entregado;5.0;1500;CSV
+CSV-0070;24/3/2026;Rosé de Malbec;Rosado;Malbec;22;4800;0.05;101520.0;Restaurante;Santa Fe;Santa Fe Capital;Mercado Pago;Lucía Pérez;Entregado;4.0;1200;CSV
+CSV-0071;6/3/2026;Syrah Estate;Tinto;Syrah;11;4800;15%;44880.0;Vinoteca;Mendoza;Luján de Cuyo;Efectivo;Tomás Molina;Pendiente;;0;CSV
+CSV-0072;3/4/2026;Malbec Reserva;Tinto;Malbec;20;12000;0.15;205200.0;Vinoteca;Córdoba;Río Cuarto;TARJETA DÉBITO;Sofía Herrera;Entregado;2.0;1200;CSV
+CSV-0073;1/2/2026;Syrah Estate;Tinto;Syrah;1;6100;0.05;7795.0;Restaurante;Neuquén;San Martín de los Andes;Tarjeta crédito;Martín Gómez;Entregado;1.0;2000;CSV
+CSV-0074;9/2/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;16;7500;0.2;97500.0;Restaurante;Santa Fe;Rosario;Tarjeta débito;Tomás Molina;Entregado;4.0;1500;CSV
+CSV-0075;11/5/2026;Blend Gran Corte;Tinto;Blend;24;5200;0.0;126000.0;Vinoteca;Santa Fe;Rosario;Transferencia;Lucía Pérez;Entregado;4.0;1200;CSV
+CSV-0076;31/5/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;19;12000;0.05;217800.0;Distribuidor;Neuquén;San Martín de los Andes;Mercado Pago;Camila Torres;Entregado;4.0;1200;CSV
+CSV-0077;18/2/2026;Espumante Brut;Espumante;Blend;23;6100;0.2;112240.0;Distribuidor;Santa Fe;Santa Fe Capital;Efectivo;Tomás Molina;Entregado;4.0;0;CSV
+CSV-0078;7/5/2026;Espumante Brut;Espumante;Blend;2;5200;0.2;8320.0;Restaurante;Neuquén;Neuquén Capital;TARJETA CRÉDITO;Camila Torres;Devuelto;3.0;0;CSV
+CSV-0079;15/4/2026;Syrah Estate;Tinto;Syrah;21;5200;0.0;110400.0;Vinoteca;Mendoza;Ciudad de Mendoza;Efectivo;Lucía Pérez;Entregado;3.0;1200;CSV
+CSV-0080;23/3/2026;Rosé de Malbec;Rosado;Malbec;21;12000;0.2;202400.0;Distribuidor;Neuquén;San Martín de los Andes;Tarjeta débito;Lucía Pérez;Entregado;1.0;800;CSV
+CSV-0081;24/4/2026;Espumante Brut;Espumante;Blend;6;7500;0.0;46200.0;Distribuidor;Mendoza;Godoy Cruz;Transferencia;Tomás Molina;Entregado;1.0;1200;CSV
+CSV-0082;16/4/2026;Blend Gran Corte;Tinto;Blend;19;5200;0.05;95360.0;Vinoteca;Córdoba;Río Cuarto;Tarjeta débito;Tomás Molina;Entregado;5.0;1500;CSV
+CSV-0083;7/3/2026;Blend Gran Corte;Tinto;Blend;15;7500;0%;114000.0;Distribuidor;Córdoba;Villa Carlos Paz;Mercado Pago;Martín Gómez;Cancelado;;1500;CSV
+CSV-0084;31/5/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;10;10500;10%;95300.0;Restaurante;Santa Fe;Santa Fe Capital;Efectivo;Lucía Pérez;Entregado;3.0;800;CSV
+CSV-0085;28/5/2026; chardonnay roble ;Blanco;Chardonnay;10;7500;0.0;76200.0;Tienda Online;Santa Fe;Santa Fe Capital;Mercado Pago;Lucía Pérez;Devuelto;4.0;1200;CSV
+CSV-0086;1/4/2026;Syrah Estate;Tinto;Syrah;8;6100;0.2;41540.0;Tienda Online;Buenos Aires;CABA;Tarjeta crédito;Sofía Herrera;Entregado;2.0;2500;CSV
+CSV-0087;3/2/2026;Syrah Estate;Tinto;Syrah;3;7500;10%;21050.0;Salón de ventas;Mendoza;Luján de Cuyo;Mercado Pago;Sofía Herrera;Entregado;;800;CSV
+CSV-0088;4/5/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;10;8900;0.0;89800.0;Salón de ventas;Córdoba;Villa Carlos Paz;Efectivo;Camila Torres;Entregado;1.0;800;CSV
+CSV-0089;4/1/2026; rosé de malbec ;Rosado;Malbec;9;4800;0.15;38720.0;Restaurante;Mendoza;Maipú;Transferencia;Lucía Pérez;Entregado;3.0;2000;CSV
+CSV-0090;24/5/2026;Chardonnay Roble;Blanco;Chardonnay;11;6100;0.0;69600.0;Distribuidor;Santa Fe;Rosario;Efectivo;Lucía Pérez;Entregado;4.0;2500;CSV
+CSV-0091;19/3/2026; blend gran corte ;Tinto;Blend;16;4800;0.0;77600.0;Restaurante;Mendoza;Godoy Cruz;Efectivo;Sofía Herrera;Entregado;5.0;800;CSV
+CSV-0092;17/4/2026;Espumante Brut;Espumante;Blend;21;4800;0.15;85680.0;Distribuidor;San Juan;San Juan Capital;Tarjeta débito;Tomás Molina;Entregado;3.0;0;CSV
+CSV-0093;26/1/2026;Syrah Estate;Tinto;Syrah;22;8900;0.2;159140.0;Distribuidor;Córdoba;Villa Carlos Paz;Tarjeta crédito;Tomás Molina;Cancelado;;2500;CSV
+CSV-0094;27/4/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;3;6100;0.2;15840.0;Salón de ventas;Córdoba;;Tarjeta débito;Camila Torres;Devuelto;1.0;1200;CSV
+CSV-0095;31/5/2026;Chardonnay Roble;Blanco;Chardonnay;7;6100;0.1;38430.0;Distribuidor;Mendoza;;Tarjeta débito;Martín Gómez;Entregado;;0;CSV
+CSV-0096;7/1/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;5;4200;10%;19700.0;Vinoteca;Córdoba;Córdoba Capital;Transferencia;Lucía Pérez;Pendiente;;800;CSV
+CSV-0097;2/2/2026;Blend Gran Corte;Tinto;Blend;24;10500;0.2;203100.0;Restaurante;Buenos Aires;CABA;Transferencia;Camila Torres;Entregado;1.0;1500;CSV
+CSV-0098;12/1/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;24;7500;0.15;153000.0;Restaurante;Santa Fe;Rosario;Efectivo;Tomás Molina;Entregado;1.0;0;CSV
+CSV-0099;19/1/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;3;8900;0.2;22560.0;Vinoteca;Santa Fe;Santa Fe Capital;Mercado Pago;Camila Torres;Entregado;2.0;1200;CSV
+CSV-0100;27/4/2026; rosé de malbec ;Rosado;Malbec;17;10500;0.0;178500.0;Vinoteca;Santa Fe;Santa Fe Capital;Tarjeta débito;Tomás Molina;Pendiente;;0;CSV
+CSV-0101;28/3/2026;Syrah Estate;Tinto;Syrah;15;10500;15%;135375.0;Distribuidor;Córdoba;Villa Carlos Paz;Transferencia;Sofía Herrera;Entregado;3.0;1500;CSV
+CSV-0102;18/1/2026;Blend Gran Corte;Tinto;Blend;3;4800;0%;15200.0;Vinoteca;Neuquén;San Martín de los Andes;Tarjeta crédito;Camila Torres;Entregado;3.0;800;CSV
+CSV-0103;16/4/2026;Rosé de Malbec;Rosado;Malbec;12;10500;0.0;127200.0;Distribuidor;Neuquén;Neuquén Capital;Tarjeta crédito;Camila Torres;Devuelto;5.0;1200;CSV
+CSV-0104;4/5/2026;Chardonnay Roble;Blanco;Chardonnay;8;4800;0.1;35760.0;Tienda Online;Córdoba;Río Cuarto;Transferencia;Camila Torres;Pendiente;;1200;CSV
+CSV-0105;10/3/2026;Chardonnay Roble;Blanco;Chardonnay;1;5200;0.1;5880.0;Distribuidor;Santa Fe;Rosario;Tarjeta crédito;Martín Gómez;Entregado;3.0;1200;CSV
+CSV-0106;18/1/2026;Blend Gran Corte;Tinto;Blend;5;4200;0.0;22500.0;Restaurante;San Juan;Rivadavia;Efectivo;Sofía Herrera;Entregado;2.0;1500;CSV
+CSV-0107;25/3/2026;Blend Gran Corte;Tinto;Blend;19;4800;0.0;91200.0;Tienda Online;Buenos Aires;La Plata;Transferencia;Tomás Molina;Entregado;5.0;0;CSV
+CSV-0108;17/4/2026;Espumante Brut;Espumante;Blend;9;6100;0.2;43920.0;Distribuidor;Santa Fe;Santa Fe Capital;Mercado Pago;Tomás Molina;Entregado;4.0;0;CSV
+CSV-0109;12/4/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;20;4200;0.0;84800.0;Distribuidor;Mendoza;Ciudad de Mendoza;Transferencia;Sofía Herrera;Entregado;2.0;800;CSV
+CSV-0110;21/4/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;6;5200;0.15;28520.0;Vinoteca;Mendoza;Maipú;Transferencia;Lucía Pérez;Entregado;2.0;2000;CSV
+CSV-0111;22/4/2026;Espumante Brut;Espumante;Blend;1;12000;0.0;14000.0;Restaurante;Neuquén;Neuquén Capital;Mercado Pago;Tomás Molina;Pendiente;;2000;CSV
+CSV-0112;14/4/2026; espumante brut ;Espumante;Blend;1;8900;0.05;10455.0;Restaurante;Buenos Aires;CABA;Transferencia;Lucía Pérez;Pendiente;;2000;CSV
+CSV-0113;22/4/2026;Espumante Brut;Espumante;Blend;19;10500;0.2;162100.0;Distribuidor;Mendoza;Ciudad de Mendoza;Tarjeta débito;Sofía Herrera;Entregado;3.0;2500;CSV
+CSV-0114;16/5/2026;Blend Gran Corte;Tinto;Blend;17;6100;0.1;94130.0;Tienda Online;Mendoza;Godoy Cruz;Tarjeta débito;Sofía Herrera;Entregado;2.0;800;CSV
+CSV-0115;9/2/2026;Chardonnay Roble;Blanco;Chardonnay;21;4800;0.05;97260.0;Vinoteca;Córdoba;Río Cuarto;Mercado Pago;Tomás Molina;Devuelto;4.0;1500;CSV
+CSV-0116;8/2/2026;Rosé de Malbec;Rosado;Malbec;15;4800;0.15;62400.0;Vinoteca;Neuquén;San Martín de los Andes;Tarjeta crédito;Sofía Herrera;Entregado;3.0;1200;CSV
+CSV-0117;26/4/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;2;4200;0.1;7560.0;Tienda Online;Buenos Aires;La Plata;Mercado Pago;Camila Torres;Pendiente;;0;CSV
+CSV-0118;26/4/2026;Espumante Brut;Espumante;Blend;19;6100;0.1;105110.0;Tienda Online;Santa Fe;Rosario;Efectivo;Lucía Pérez;Entregado;5.0;800;CSV
+CSV-0119;10/5/2026;Rosé de Malbec;Rosado;Malbec;21;5200;0.0;110700.0;Vinoteca;Neuquén;;Mercado Pago;Camila Torres;Entregado;4.0;1500;CSV
+CSV-0120;14/3/2026;Blend Gran Corte;Tinto;Blend;13;10500;0.1;125350.0;Distribuidor;Buenos Aires;La Plata;TARJETA CRÉDITO;Sofía Herrera;Entregado;1.0;2500;CSV
+CSV-0121;14/3/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;9;5200;0.1;43320.0;Distribuidor;San Juan;Rivadavia;Efectivo;Martín Gómez;Entregado;;1200;CSV
+CSV-0122;7/4/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;21;8900;0.05;177555.0;Restaurante;Buenos Aires;Mar del Plata;Mercado Pago;Sofía Herrera;Entregado;;0;CSV
+CSV-0123;16/2/2026;Malbec Reserva;Tinto;Malbec;7;8900;15%;53755.0;Tienda Online;Buenos Aires;La Plata;TRANSFERENCIA;Lucía Pérez;Entregado;2.0;800;CSV
+CSV-0124;3/2/2026; malbec reserva ;Tinto;Malbec;20;10500;0.05;200300.0;Restaurante;Neuquén;San Martín de los Andes;Tarjeta crédito;Tomás Molina;Entregado;5.0;800;CSV
+CSV-0125;24/4/2026;Rosé de Malbec;Rosado;Malbec;20;7500;0.15;128700.0;Restaurante;Neuquén;Neuquén Capital;Tarjeta débito;Sofía Herrera;Entregado;2.0;1200;CSV
+CSV-0126;8/4/2026;Syrah Estate;Tinto;Syrah;17;10500;0.05;171575.0;Salón de ventas;Santa Fe;Santa Fe Capital;Transferencia;Lucía Pérez;Pendiente;;2000;CSV
+CSV-0127;27/1/2026;Syrah Estate;Tinto;Syrah;23;4800;0.1;100560.0;Restaurante;Buenos Aires;Mar del Plata;Mercado Pago;Martín Gómez;Entregado;2.0;1200;CSV
+CSV-0128;26/4/2026;Espumante Brut;Espumante;Blend;12;4200;0.15;44040.0;Salón de ventas;Mendoza;Ciudad de Mendoza;Efectivo;Lucía Pérez;Entregado;5.0;1200;CSV
+CSV-0129;23/3/2026; rosé de malbec ;Rosado;Malbec;4;8900;5%;35320.0;Salón de ventas;Córdoba;Córdoba Capital;Efectivo;Tomás Molina;Entregado;3.0;1500;CSV
+CSV-0130;7/3/2026;Malbec Reserva;Tinto;Malbec;7;5200;0.2;31120.0;Vinoteca;Mendoza;Godoy Cruz;Efectivo;Lucía Pérez;Cancelado;;2000;CSV
+CSV-0131;1/2/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;2;6100;0.15;11870.0;Tienda Online;Córdoba;Villa Carlos Paz;Tarjeta crédito;Tomás Molina;Entregado;5.0;1500;CSV
+CSV-0132;6/2/2026;Malbec Reserva;Tinto;Malbec;10;10500;0.0;107000.0;Restaurante;Neuquén;Neuquén Capital;Tarjeta débito;Lucía Pérez;Entregado;2.0;2000;CSV
+CSV-0133;10/4/2026;Rosé de Malbec;Rosado;Malbec;16;4200;0.15;59620.0;Tienda Online;Mendoza;Godoy Cruz;Transferencia;Lucía Pérez;Devuelto;3.0;2500;CSV
+CSV-0134;27/1/2026;Rosé de Malbec;Rosado;Malbec;19;8900;0.05;161845.0;Salón de ventas;Córdoba;Río Cuarto;Efectivo;Tomás Molina;Entregado;5.0;1200;CSV
+CSV-0135;28/4/2026;Blend Gran Corte;Tinto;Blend;2;7500;0.05;14250.0;Distribuidor;Córdoba;;Transferencia;Camila Torres;Entregado;2.0;0;CSV
+CSV-0136;6/3/2026;Espumante Brut;Espumante;Blend;2;6100;0.1;13480.0;Distribuidor;San Juan;Rivadavia;Transferencia;Lucía Pérez;Entregado;1.0;2500;CSV
+CSV-0137;23/4/2026;Rosé de Malbec;Rosado;Malbec;13;8900;0.05;111115.0;Vinoteca;Santa Fe;Santa Fe Capital;Transferencia;Lucía Pérez;Entregado;4.0;1200;CSV
+CSV-0138;16/2/2026;Espumante Brut;Espumante;Blend;18;7500;0.1;124000.0;Distribuidor;Mendoza;Maipú;Transferencia;Tomás Molina;Entregado;3.0;2500;CSV
+CSV-0139;24/4/2026; espumante brut ;Espumante;Blend;12;12000;0.0;146000.0;Restaurante;Córdoba;Río Cuarto;Transferencia;Lucía Pérez;Entregado;3.0;2000;CSV
+CSV-0140;4/4/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;17;5200;0%;90900.0;Restaurante;Neuquén;San Martín de los Andes;Tarjeta crédito;Martín Gómez;Entregado;5.0;2500;CSV
+CSV-0141;4/4/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;12;10500;0.2;103300.0;Restaurante;Córdoba;Río Cuarto;Transferencia;Sofía Herrera;Entregado;2.0;2500;CSV
+CSV-0142;16/5/2026;Syrah Estate;Tinto;Syrah;12;10500;0.1;113400.0;Tienda Online;Mendoza;Ciudad de Mendoza;Tarjeta débito;Tomás Molina;Entregado;2.0;0;CSV
+CSV-0143;9/3/2026;Espumante Brut;Espumante;Blend;9;12000;0.05;105100.0;Restaurante;San Juan;San Juan Capital;Tarjeta débito;Lucía Pérez;Devuelto;3.0;2500;CSV
+CSV-0144;14/2/2026;Blend Gran Corte;Tinto;Blend;23;12000;0%;277200.0;Distribuidor;Mendoza;Maipú;Tarjeta crédito;Camila Torres;Pendiente;;1200;CSV
+CSV-0145;14/2/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;12;6100;0.0;74000.0;Restaurante;Buenos Aires;CABA;Tarjeta crédito;Sofía Herrera;Devuelto;2.0;800;CSV
+CSV-0146;23/1/2026;Rosé de Malbec;Rosado;Malbec;3;7500;0.15;21125.0;Restaurante;Santa Fe;;Efectivo;Camila Torres;Devuelto;4.0;2000;CSV
+CSV-0147;19/1/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;15;12000;0.2;146500.0;Vinoteca;Córdoba;Villa Carlos Paz;Tarjeta débito;Martín Gómez;Entregado;5.0;2500;CSV
+CSV-0148;1/2/2026;Espumante Brut;Espumante;Blend;17;5200;0.1;82060.0;Salón de ventas;San Juan;San Juan Capital;Transferencia;Camila Torres;Entregado;3.0;2500;CSV
+CSV-0149;20/2/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;21;7500;0.05;151625.0;Tienda Online;Mendoza;Luján de Cuyo;MERCADO PAGO;Martín Gómez;Entregado;5.0;2000;CSV
+CSV-0150;28/3/2026;Blend Gran Corte;Tinto;Blend;19;4200;0.0;81000.0;Salón de ventas;Córdoba;;MERCADO PAGO;Tomás Molina;Entregado;5.0;1200;CSV
+CSV-0151;19/3/2026;Malbec Reserva;Tinto;Malbec;16;6100;0.15;85460.0;Tienda Online;Santa Fe;Santa Fe Capital;Tarjeta débito;Tomás Molina;Entregado;1.0;2500;CSV
+CSV-0152;22/2/2026;Espumante Brut;Espumante;Blend;11;5200;0.1;52680.0;Distribuidor;Santa Fe;;EFECTIVO;Martín Gómez;Pendiente;;1200;CSV
+CSV-0153;23/3/2026;Rosé de Malbec;Rosado;Malbec;8;12000;0.0;96800.0;Tienda Online;San Juan;;Tarjeta crédito;Sofía Herrera;Entregado;2.0;800;CSV
+CSV-0154;5/3/2026;Espumante Brut;Espumante;Blend;6;8900;0.2;43520.0;Restaurante;San Juan;Rivadavia;Mercado Pago;Tomás Molina;Entregado;2.0;800;CSV
+CSV-0155;6/1/2026;Syrah Estate;Tinto;Syrah;3;10500;0.2;26000.0;Vinoteca;Buenos Aires;La Plata;TRANSFERENCIA;Lucía Pérez;Entregado;2.0;800;CSV
+CSV-0156;1/5/2026;Malbec Reserva;Tinto;Malbec;10;4200;0.0;44500.0;Distribuidor;Buenos Aires;La Plata;Efectivo;Sofía Herrera;Entregado;3.0;2500;CSV
+CSV-0157;26/5/2026;Malbec Reserva;Tinto;Malbec;18;6100;0.1;100320.0;Vinoteca;Santa Fe;Rosario;Efectivo;Camila Torres;Entregado;1.0;1500;CSV
+CSV-0158;2/2/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;4;10500;0.1;39000.0;Vinoteca;San Juan;San Juan Capital;Transferencia;Martín Gómez;Pendiente;;1200;CSV
+CSV-0159;9/5/2026;Chardonnay Roble;Blanco;Chardonnay;2;4200;0.0;9900.0;Vinoteca;San Juan;Rivadavia;Efectivo;Martín Gómez;Entregado;3.0;1500;CSV
+CSV-0160;23/3/2026;Blend Gran Corte;Tinto;Blend;6;10500;20%;52400.0;Distribuidor;Buenos Aires;Mar del Plata;Mercado Pago;Camila Torres;Entregado;3.0;2000;CSV
+CSV-0161;2/5/2026;Syrah Estate;Tinto;Syrah;1;8900;0.1;10010.0;Distribuidor;Neuquén;San Martín de los Andes;Tarjeta crédito;Camila Torres;Entregado;4.0;2000;CSV
+CSV-0162;29/5/2026;Syrah Estate;Tinto;Syrah;19;6100;0%;117900.0;Vinoteca;Buenos Aires;Mar del Plata;Efectivo;Martín Gómez;Entregado;2.0;2000;CSV
+CSV-0163;18/2/2026;Chardonnay Roble;Blanco;Chardonnay;1;12000;0.1;13300.0;Salón de ventas;Mendoza;Godoy Cruz;Efectivo;Camila Torres;Entregado;4.0;2500;CSV
+CSV-0164;5/2/2026;Syrah Estate;Tinto;Syrah;17;6100;0.2;84960.0;Restaurante;Neuquén;Neuquén Capital;Transferencia;Martín Gómez;Entregado;4.0;2000;CSV
+CSV-0165;20/5/2026;Syrah Estate;Tinto;Syrah;12;7500;0.2;73200.0;Vinoteca;San Juan;Rivadavia;Transferencia;Martín Gómez;Entregado;2.0;1200;CSV
+CSV-0166;23/2/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;23;12000;0.1;250900.0;Distribuidor;Buenos Aires;Mar del Plata;Transferencia;Lucía Pérez;Entregado;5.0;2500;CSV
+CSV-0167;7/2/2026;Espumante Brut;Espumante;Blend;10;4200;0.1;39000.0;Restaurante;Santa Fe;Santa Fe Capital;Transferencia;Tomás Molina;Devuelto;1.0;1200;CSV
+CSV-0168;11/3/2026;Chardonnay Roble;Blanco;Chardonnay;18;7500;0.05;129050.0;Salón de ventas;Córdoba;Río Cuarto;Tarjeta crédito;Camila Torres;Entregado;5.0;800;CSV
+CSV-0169;14/1/2026;Chardonnay Roble;Blanco;Chardonnay;4;10500;0.1;40300.0;Salón de ventas;Neuquén;Neuquén Capital;Tarjeta crédito;Camila Torres;Entregado;1.0;2500;CSV
+CSV-0170;3/5/2026;Blend Gran Corte;Tinto;Blend;21;6100;0.1;115290.0;Vinoteca;Santa Fe;Santa Fe Capital;Tarjeta débito;Camila Torres;Entregado;1.0;0;CSV
+CSV-0171;15/2/2026;Malbec Reserva;Tinto;Malbec;2;10500;15%;17850.0;Tienda Online;Córdoba;Villa Carlos Paz;Transferencia;Camila Torres;Entregado;3.0;0;CSV
+CSV-0172;27/4/2026; cabernet clásico ;Tinto;Cabernet Sauvignon;21;12000;0.05;240900.0;Distribuidor;Buenos Aires;La Plata;Tarjeta débito;Lucía Pérez;Pendiente;;1500;CSV
+CSV-0173;28/4/2026;Rosé de Malbec;Rosado;Malbec;21;7500;0.05;150825.0;Vinoteca;Córdoba;Río Cuarto;Tarjeta débito;Martín Gómez;Entregado;3.0;1200;CSV
+CSV-0174;23/1/2026;Espumante Brut;Espumante;Blend;13;4800;5%;60480.0;Salón de ventas;Santa Fe;Santa Fe Capital;Tarjeta crédito;Sofía Herrera;Devuelto;4.0;1200;CSV
+CSV-0175;10/3/2026;Espumante Brut;Espumante;Blend;11;7500;0.2;67200.0;Distribuidor;Córdoba;Villa Carlos Paz;Tarjeta débito;Lucía Pérez;Entregado;1.0;1200;CSV
+CSV-0176;10/2/2026; cabernet clásico ;Tinto;Cabernet Sauvignon;13;7500;0.0;98700.0;Vinoteca;Santa Fe;Santa Fe Capital;Tarjeta débito;Martín Gómez;Entregado;3.0;1200;CSV
+CSV-0177;27/4/2026;Blend Gran Corte;Tinto;Blend;24;8900;0.15;183560.0;Salón de ventas;Santa Fe;Rosario;Tarjeta débito;Camila Torres;Entregado;4.0;2000;CSV
+CSV-0178;16/5/2026; cabernet clásico ;Tinto;Cabernet Sauvignon;23;8900;0.0;204700.0;Tienda Online;San Juan;Rivadavia;Mercado Pago;Camila Torres;Cancelado;;0;CSV
+CSV-0179;12/2/2026;Chardonnay Roble;Blanco;Chardonnay;11;12000;0.0;133500.0;Tienda Online;San Juan;San Juan Capital;Mercado Pago;Tomás Molina;Entregado;5.0;1500;CSV
+CSV-0180;12/5/2026;Malbec Reserva;Tinto;Malbec;14;12000;20%;136900.0;Distribuidor;Santa Fe;Rosario;Tarjeta crédito;Tomás Molina;Entregado;4.0;2500;CSV
+CSV-0181;29/5/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;3;4200;0.15;12710.0;Tienda Online;Mendoza;Ciudad de Mendoza;Tarjeta crédito;Tomás Molina;Entregado;1.0;2000;CSV
+CSV-0182;16/2/2026;Malbec Reserva;Tinto;Malbec;5;10500;0.1;48750.0;Restaurante;Buenos Aires;La Plata;Efectivo;Lucía Pérez;Devuelto;4.0;1500;CSV
+CSV-0183;31/1/2026;Blend Gran Corte;Tinto;Blend;6;10500;20%;50400.0;Tienda Online;Neuquén;San Martín de los Andes;Transferencia;Tomás Molina;Entregado;2.0;0;CSV
+CSV-0184;28/2/2026;Espumante Brut;Espumante;Blend;8;12000;10%;88900.0;Tienda Online;San Juan;Rivadavia;Tarjeta crédito;Tomás Molina;Entregado;2.0;2500;CSV
+CSV-0185;18/1/2026; malbec reserva ;Tinto;Malbec;4;4200;0.15;15080.0;Tienda Online;Córdoba;Córdoba Capital;Efectivo;Tomás Molina;Entregado;1.0;800;CSV
+CSV-0186;15/1/2026;Chardonnay Roble;Blanco;Chardonnay;5;7500;0.05;38125.0;Vinoteca;San Juan;San Juan Capital;Transferencia;Camila Torres;Pendiente;;2500;CSV
+CSV-0187;6/2/2026;Rosé de Malbec;Rosado;Malbec;22;6100;0.15;116070.0;Vinoteca;Córdoba;Villa Carlos Paz;Tarjeta débito;Tomás Molina;Entregado;1.0;2000;CSV
+CSV-0188;8/4/2026; syrah estate ;Tinto;Syrah;17;8900;0.15;130105.0;Salón de ventas;Mendoza;Luján de Cuyo;Mercado Pago;Tomás Molina;Entregado;3.0;1500;CSV
+CSV-0189;6/2/2026; chardonnay roble ;Blanco;Chardonnay;15;4200;0.2;52400.0;Vinoteca;Córdoba;Villa Carlos Paz;TARJETA DÉBITO;Tomás Molina;Entregado;4.0;2000;CSV
+CSV-0190;26/3/2026;Chardonnay Roble;Blanco;Chardonnay;21;4800;0.15;85680.0;Vinoteca;Buenos Aires;CABA;Tarjeta débito;Lucía Pérez;Pendiente;;0;CSV
+CSV-0191;19/1/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;7;6100;15%;37495.0;Tienda Online;Santa Fe;Rosario;Tarjeta débito;Martín Gómez;Entregado;3.0;1200;CSV
+CSV-0192;4/3/2026; cabernet clásico ;Tinto;Cabernet Sauvignon;23;6100;0.15;121255.0;Distribuidor;Neuquén;San Martín de los Andes;Transferencia;Tomás Molina;Cancelado;;2000;CSV
+CSV-0193;20/3/2026;Syrah Estate;Tinto;Syrah;9;8900;0.2;65580.0;Tienda Online;San Juan;Rivadavia;Efectivo;Sofía Herrera;Cancelado;;1500;CSV
+CSV-0194;16/4/2026;Chardonnay Roble;Blanco;Chardonnay;2;6100;0.05;13590.0;Vinoteca;Buenos Aires;La Plata;Efectivo;Sofía Herrera;Entregado;5.0;2000;CSV
+CSV-0195;28/2/2026;Blend Gran Corte;Tinto;Blend;13;6100;0.15;68605.0;Restaurante;Córdoba;Villa Carlos Paz;Efectivo;Tomás Molina;Entregado;3.0;1200;CSV
+CSV-0196;13/2/2026;Blend Gran Corte;Tinto;Blend;5;12000;0.05;59000.0;Tienda Online;Neuquén;San Martín de los Andes;Mercado Pago;Lucía Pérez;Cancelado;;2000;CSV
+CSV-0197;2/1/2026;Cabernet Clásico;Tinto;Cabernet Sauvignon;14;5200;0.05;69160.0;Salón de ventas;Neuquén;Neuquén Capital;Mercado Pago;Tomás Molina;Entregado;2.0;0;CSV
+CSV-0198;5/5/2026;Rosé de Malbec;Rosado;Malbec;1;4200;20%;3360.0;Vinoteca;Mendoza;Maipú;Transferencia;Camila Torres;Entregado;1.0;0;CSV
+CSV-0199;15/2/2026;Sauvignon Blanc;Blanco;Sauvignon Blanc;4;4800;0.2;17360.0;Vinoteca;Mendoza;Maipú;Transferencia;Sofía Herrera;Entregado;2.0;2000;CSV
+CSV-0200;6/4/2026; sauvignon blanc ;Blanco;Sauvignon Blanc;13;12000;0.2;126000.0;Tienda Online;Santa Fe;Rosario;Tarjeta crédito;Lucía Pérez;Entregado;2.0;1200;CSV
